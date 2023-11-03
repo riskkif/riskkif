@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riski Firmansah</h1>
 <img align="center" alt"..." src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
+<p>"Hello, my name is Riski Firmansah, a third-semester student at the State Polytechnic of Indramayu. I have a high enthusiasm for exploring knowledge in the field of technologies. I enjoy interacting and collaborating in academic environments to learn and grow together. Let's support each other and foster productive collaborations on our educational journey at Polindra!"</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riskkif&label=Profile%20views&color=0e75b6&style=flat" alt="riskkif" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
